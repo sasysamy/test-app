@@ -1,0 +1,29 @@
+{
+  "name": "movie_app",
+  "version": "0.0.0",
+  "authors": [
+    "sasikumar <sasysamy@gmail.com>"
+  ],
+  "description": "A dummy application to know more about AngularJs unit testing and e2e testing",
+  "main": "main.js",
+  "moduleType": [
+    "amd"
+  ],
+  "dependencies": {
+    "angular": "latest",
+    "angular-messages": "latest",
+    "angular-animate": "latest",
+    "angular-ui-router": "latest",
+    "requirejs": "~2.1.8",
+    "requirejs-domready": "~2.0.1",
+    "angular-aria": "~1.4.8",
+    "angular-cookies": "~1.4.8",
+    "angular-resource": "~1.4.8",
+    "angular-sanitize": "~1.4.8",
+    "jasmine": "~2.3.4",
+    "angular-mocks": "~1.4.8"
+  },
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true
+}
